@@ -16,7 +16,7 @@ I build backend systems, AI/LLM-powered tools and mobile apps, with a focus on c
 | Project | Tech | Description |
 |---|---|---|
 | **VitrinAI** *(graduation project, in progress)* | Python, FastAPI, Gemini VLM, Streamlit | Extracts structured attributes from product photos and generates listing text with hallucination verification |
-| **STEM-Based Educational Game** | Unity, C# | Multi-level educational game for kids, with two neural networks written from scratch that adapt difficulty to the player |
+| [STEM Adaptive Learning Game](https://github.com/ardactin/stem-adaptive-learning-game) | Unity, C# | Multi-level educational game for kids, with two neural networks written from scratch that adapt difficulty to the player |
 | [Student Information System](https://github.com/ardactin/Student-Information-System) | ASP.NET Core MVC, EF Core, SQL Server | Course registration and grading for 3 user roles; averages and letter grades as SQL computed columns |
 | [Event Planner](https://github.com/ardactin/flutter-event-planner) | Flutter, Dart, SQLite | Offline event planner with user accounts, per-user events and Hero-animated detail pages |
 | [Regex Word Generator](https://github.com/ardactin/regex-word-generator) | C | Generates words of a regular language (concatenation, union, Kleene star) and checks membership |
